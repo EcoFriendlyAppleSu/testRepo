@@ -9,3 +9,5 @@
 
 rootProject.name = 'gradletest'
 include 'app'
+include 'module-common'
+include 'module-web'
